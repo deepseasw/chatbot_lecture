@@ -1,1 +1,1 @@
-# chatbot_lecture
+# 챗봇 강의 자료
